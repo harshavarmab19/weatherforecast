@@ -6,5 +6,5 @@ Sky Pulse is a Java-based weather application. It fetches real-time weather data
 - City-based search
 - Displays temperature, humidity, and sky description
 - Simple and user-friendly interface
-- 
+
 Note: Keep all the .png files in a folder named assets.
